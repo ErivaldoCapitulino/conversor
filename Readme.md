@@ -29,4 +29,8 @@ As fórmulas de conversão de temperatura são as fórmulas padrão para as resp
 O aplicativo pode ser personalizado e expandido para adicionar funcionalidades adicionais, como atualização automática das taxas de câmbio ou um histórico de conversões.
 Esta documentação fornece uma visão geral do fluxo do aplicativo e das principais funcionalidades do projeto de conversor de moeda e temperatura em Java. Você pode aprimorar e personalizar esta documentação conforme necessário para atender aos requisitos do seu projeto.
 
-![Alt text](parte5.png) ![Alt text](parte1.png) ![Alt text](parte2.png) ![Alt text](parte3.png) ![Alt text](parte4.png)
+![Alt text](img/parte1.png)
+![Alt text](img/parte2.png)
+![Alt text](img/parte3.png)
+![Alt text](img/parte4.png)
+![Alt text](img/parte5.png)
